@@ -1,0 +1,1 @@
+In this project, I created a simple button-controlled LED application using an Arduino board. The objective was to make an LED turn on when a button is pressed and turn off when the button is released.
